@@ -40,7 +40,12 @@ Python 3.13.7
    e após isso clone o projeto usando o seguinte comando:
     
 ```
-git clone https://github.com/07Soso/Logica_proposicional.git
+git clone https://github.com/isalemecruz/detector_cor.git
 ```
   </p>
-  
+  <h2>Melhorias futuras</h2>
+  <p style="text-align: justify;"> Na próxima versão do sistema, serão implementadas melhorias na verificação das cores, visando aumentar a precisão da identificação. Além disso, o range de cores será ampliando, possibilitando uma classificação melhor.
+    <br>
+    Também será adicionado um elemento visual abaixo das informações exibidas ao usuário, contendo um quadrado que representa a cor do frame que está sendo analisado, facilitando a visualização do resultado
+    
+</p>
