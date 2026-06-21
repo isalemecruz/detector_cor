@@ -10,12 +10,12 @@ O código em Python faz a média dos valores capturados na região delimitada e 
 Para melhor visualização da cor detectada foi implementado um delay (mecanismo de atraso), evitando oscilações rápidas nas mudanças de cores.</p>
 <h2>Notebooks e arquivos do projeto</h2>
 <p style="text-align: justify;">README.md: Descrição do projeto.<br>
-detectordecor.ipynb: Esse arquivo contém o programa que detecta e analias as cores e uma explicação detalhada de cada célula de código.</p>
+detectordecor.ipynb: Esse arquivo contém o programa que detecta e analisa as cores e uma explicação detalhada de cada célula de código.</p>
 <h2>Funcionamento</h2>
 <h4><strong>Captura de video em tempo real</strong><h4>
   <p style="text-align: justify;">O sistema utiliza a câmera do dispositivo para capturar frames continuamente, permitindo analise posterior deles.</p>
 <h4><strong>Processamento de imagem</strong></h4>
-    <p style="text-align: justify;">Cada frame capturado é tratado utilizando a biblioteca OpenC, possibilitando a estração de informações relevantes.<br>
+    <p style="text-align: justify;">Cada frame capturado é tratado utilizando a biblioteca OpenC, possibilitando a estração de informações relevantes.<br><br>
 <strong>Conversão de cores para HSV</strong><br>
       <p style="text-align: justify;">As imagens convertidas do modelo RGB para o espaço HSV, garantindo maior precisão na identificação das cores.<br><p>
 <h4><strong>Análise da região central da imagem e média das cores identificadas</strong></h4>
