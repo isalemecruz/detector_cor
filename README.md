@@ -1,3 +1,6 @@
+<img width="2480" height="254" alt="Cabecalho 3" src="https://github.com/user-attachments/assets/14f721de-0601-4f8d-9782-06dc02ec0d44" />
+
+
 <h1  align="center"> Detector de cor usando escala HSV</h1>
 <h4 align="center">Isabela Leme Cruz</h4>
 <h4 align="center">Turma 26 - 1°Semestre</h4>
@@ -49,3 +52,5 @@ git clone https://github.com/isalemecruz/detector_cor.git
     Também será adicionado um elemento visual abaixo das informações exibidas ao usuário, contendo um quadrado que representa a cor do frame que está sendo analisado, facilitando a visualização do resultado
     
 </p>
+
+<img width="1664" height="215" alt="Rodape 3" src="https://github.com/user-attachments/assets/2f033fd0-b1f5-4720-9625-f158f5e865c6" />
